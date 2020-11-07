@@ -1,0 +1,7 @@
+.overlayPhotos {
+	position: fixed;
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	height: 100%;
+	margin-top: -30px;
+}
